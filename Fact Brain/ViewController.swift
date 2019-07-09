@@ -9,12 +9,23 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    //Fact Label
+    @IBOutlet weak var factLabel: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
 
     }
+    
+    // Brain Button
+    @IBAction func brainButton(_ sender: Any) {
+        
+        
+    }
+    
 
 
 }
