@@ -11,7 +11,6 @@ They are greeted with a purple hue background with the title on top 'Fact Brain'
 The user clicks the brain button and a random fact is shown in the label above the brain. 
 Then when the brain is clicked again another fact is displayed.
 
-Coming soon:
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
